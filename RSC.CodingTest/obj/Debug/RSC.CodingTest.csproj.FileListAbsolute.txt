@@ -1,0 +1,6 @@
+c:\users\miker\documents\visual studio 2015\Projects\RSC.CodingTest\RSC.CodingTest\bin\Debug\RSC.CodingTest.exe.config
+c:\users\miker\documents\visual studio 2015\Projects\RSC.CodingTest\RSC.CodingTest\bin\Debug\RSC.CodingTest.exe
+c:\users\miker\documents\visual studio 2015\Projects\RSC.CodingTest\RSC.CodingTest\bin\Debug\RSC.CodingTest.pdb
+c:\users\miker\documents\visual studio 2015\Projects\RSC.CodingTest\RSC.CodingTest\obj\Debug\RSC.CodingTest.csprojResolveAssemblyReference.cache
+c:\users\miker\documents\visual studio 2015\Projects\RSC.CodingTest\RSC.CodingTest\obj\Debug\RSC.CodingTest.exe
+c:\users\miker\documents\visual studio 2015\Projects\RSC.CodingTest\RSC.CodingTest\obj\Debug\RSC.CodingTest.pdb
